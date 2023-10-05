@@ -1,1 +1,1 @@
-# Olympic_Data_Analytics_Azure_Project
+# Olympic-analytics-Azure_Project
